@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Nulandmori/Nulandmori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="http://twitter.com/mikr29028944">
+    <img height="20" src="https://img.shields.io/twitter/follow/mikr29028944?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Nulandmori&count_private=true&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nulandmori&layout=compact" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nulandmori&column=8&no-frame=true"/>
+</a>
